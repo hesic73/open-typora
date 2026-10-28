@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Open Typora
+GenericName=Markdown Editor
+Comment=A Markdown editor that shows what it means while you type
+Exec=open-typora %F
+Icon=open-typora
+Terminal=false
+Categories=Office;TextEditor;Utility;
+MimeType=text/markdown;text/x-markdown;text/plain;
+StartupWMClass=open-typora
